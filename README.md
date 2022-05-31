@@ -97,29 +97,3 @@ make example
 ```
 make check
 ```
-
-### Docker
-
-```
-docker build -t wfrest ./docker/ubuntu/
-```
-
-如果你用`podman`
-
-```
-podman build -t wfrest ./docker/ubuntu/
-```
-
-你也可以从dockerhub中拖拉镜像
-
-```
-docker pull wfrest/wfrest
-```
-
-# 使用中有疑问？
-
-可以先查看[Discussions](https://github.com/wfrest/wfrest/discussions)和[issues](https://github.com/wfrest/wfrest/issues)列表，看看是否能找到答案。
-
-非常欢迎将您使用中遇到的问题发送到issues。
-
-也可以通过QQ群：884394197 联系我们。
