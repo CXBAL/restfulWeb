@@ -78,9 +78,3 @@ sudo make install
 ```
 make example
 ```
-
-测试:
-
-```
-make check
-```
