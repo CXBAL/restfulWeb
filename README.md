@@ -25,7 +25,7 @@ int main()
     {
         getchar();
         svr.stop();
-    } 
+    }
 	else
     {
         fprintf(stderr, "Cannot start server");
