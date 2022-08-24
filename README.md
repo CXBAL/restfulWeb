@@ -1,8 +1,8 @@
 # RESTful Web: C++ Web Framework REST API
 
-RESTful 是一个快速、高效、简单易用的 c++ web 框架.
+RESTful Web 是一个快速、高效、简单易用的 c++ web 框架.
 
-RESTful 基于[✨**C++ Workflow**✨](https://github.com/sogou/workflow)开发. [**C++ Workflow**](https://github.com/sogou/workflow) 是一个设计轻盈优雅的企业级程序引擎.
+RESTful Web 基于[✨**C++ Workflow**✨](https://github.com/sogou/workflow)开发. [**C++ Workflow**](https://github.com/sogou/workflow) 是一个设计轻盈优雅的企业级程序引擎.
 
 你可以用来：
 
