@@ -2,7 +2,7 @@
 
 RESTful 是一个快速、高效、简单易用的 c++ web 框架.
 
-wfrest基于[✨**C++ Workflow**✨](https://github.com/sogou/workflow)开发. [**C++ Workflow**](https://github.com/sogou/workflow) 是一个设计轻盈优雅的企业级程序引擎.
+RESTful 基于[✨**C++ Workflow**✨](https://github.com/sogou/workflow)开发. [**C++ Workflow**](https://github.com/sogou/workflow) 是一个设计轻盈优雅的企业级程序引擎.
 
 你可以用来：
 
@@ -40,9 +40,9 @@ int main()
     - [路由中的参数](./docs/cn/param_in_path.md)
     - [url请求参数](./docs/cn/query_param.md)
     - [表单数据](./docs/cn/post_form.md)
-    - [发送文件](./docs/cn/send_file.md)
-    - [保存文件](./docs/cn/save_file.md)
     - [上传文件](./docs/cn/upload_file.md)
     - [Json](./docs/cn/json.md)
-
+	- [压缩算法](./docs/cn/compress.md)
+	- [蓝图](./docs/cn/blueprint.md)
+	- [Cookie](./docs/cn/cookie.md)
 
