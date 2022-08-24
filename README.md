@@ -2,7 +2,7 @@
 
 RESTful Web 是一个快速、高效、简单易用的 c++ web 框架.
 
-RESTful Web 基于搜狗的开源项目[**Workflow**](https://github.com/sogou/workflow)开发。[**Workflow**](https://github.com/sogou/workflow) 是一个设计轻盈优雅的企业级程序引擎.
+RESTful Web 基于搜狗的开源项目 [**Workflow**](https://github.com/sogou/workflow) 开发。[**Workflow**](https://github.com/sogou/workflow) 是一个设计轻盈优雅的企业级程序引擎.
 
 你可以用来：
 
@@ -25,7 +25,8 @@ int main()
     {
         getchar();
         svr.stop();
-    } else
+    } 
+	else
     {
         fprintf(stderr, "Cannot start server");
         exit(1);
